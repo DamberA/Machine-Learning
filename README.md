@@ -1,6 +1,8 @@
 # Machine-Learning
 Machine learning using a set of weather data using sklearn and pandas (python)
 
+The purpose of it is to see the chances of rain tomorrow using various machine learning methods. 
+
 
 This project is created using Jupyter notebook which allows you to run a local host programming tool using browser of your choice.
 
